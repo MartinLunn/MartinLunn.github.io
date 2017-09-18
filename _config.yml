@@ -1,0 +1,4 @@
+name: Martin Lunn
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
